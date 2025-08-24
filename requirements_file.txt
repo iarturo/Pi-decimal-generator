@@ -1,0 +1,10 @@
+# Pi Generator Requirements
+# Solo usa bibliotecas estándar de Python
+
+# Python 3.7+
+# tkinter (incluido con Python)
+# threading (incluido con Python)  
+# queue (incluido con Python)
+# decimal (incluido con Python)
+
+# No se requieren dependencias externas
